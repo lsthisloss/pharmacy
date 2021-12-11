@@ -12,8 +12,7 @@ Table 'Substance' with tables 'type' and 'drug' follows the next REST Api method
 /get-substance/:id 
 /post-substance
 /put-substance/:id 
-/delete-substance 
 
-Table 'user' for auth and registratiton, that uses jwt token for auth and crypto password in db
+Table 'user' for auth and registratiton, that use jwt token for auth and crypto password in db
 post /user/register
 post /user/auth
