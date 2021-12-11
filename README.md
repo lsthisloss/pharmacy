@@ -18,3 +18,5 @@ post /user/register
 post /user/auth
 
 Data for tables was parsed from official formular https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7/23.04/dn_792_22.04.2021_dod_2.pdf
+
+To insert use files ".db" in repo
